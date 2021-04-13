@@ -1,0 +1,54 @@
+
+body
+{
+background-image: "vk.jpg";
+
+}
+
+.fastHaf
+{
+padding: 0%;
+}
+.secondHaf
+{
+    color:black;
+}
+.body,html
+{
+height: 100%;
+}
+.img
+{
+    
+    background-image: url("un.jpg");
+    
+    height: 100%;
+}
+h1{
+    font-size: 100px;
+    font-style:italic;
+    color: black;
+    text-shadow: 4px 4px grey;
+    text-align: center;
+    
+    
+    
+    
+    
+}
+ol{
+    
+    text-align: center;
+    
+    
+    
+
+
+}
+.section-fastHaf
+{
+    
+    text-align: center;
+    padding: 50%;
+    
+}
